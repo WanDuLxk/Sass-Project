@@ -1,0 +1,93 @@
+.banner1 {
+  width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+}
+.banner1 h1 {
+  font-size: 50px;
+}
+.banner1 .title {
+  font-size: 16px;
+  margin-top: 100px;
+}
+.banner1 p {
+  font-size: 20px;
+  color: #9f9fa5;
+}
+.banner1 a {
+  text-decoration: none;
+  color: #33a8ff;
+  font-size: 20px;
+  line-height: 200px;
+}
+.banner1 .banner1-div {
+  height: 259px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+.banner1 .banner1-div .productionName-one {
+  color: white;
+  font-size: 30px;
+  font-family: "微软雅黑";
+  position: relative;
+  bottom: 30px;
+}
+.banner1 .banner1-div .productionName {
+  color: white;
+  font-size: 25px;
+  font-family: "微软雅黑";
+  line-height: 60px;
+}
+.banner1 .banner1-div .nqi {
+  height: 259px;
+  width: 270px;
+  background-color: black;
+}
+.banner1 .banner1-div .nqi .nqi-background {
+  width: 188px;
+  height: 259px;
+  background: linear-gradient(to bottom, #62d3ff, #33a8ff);
+  box-shadow: 0px 5px 25px #62d3ff;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+.banner1 .banner1-div .nqi .nqi-background img {
+  position: relative;
+  right: 40px;
+  height: 200px;
+}
+.banner1 .banner1-div .mqi1 {
+  height: 259px;
+  width: 270px;
+}
+.banner1 .banner1-div .mqi1 img {
+  position: relative;
+  top: 30px;
+}
+.banner1 .banner1-div .mqi2 {
+  height: 259px;
+  width: 270px;
+}
+.banner1 .banner1-div .mqi2 img {
+  position: relative;
+  top: 30px;
+}
+.banner1 .banner1-div .uqi1 {
+  height: 259px;
+  width: 270px;
+}
+.banner1 .banner1-div .uqi1 img {
+  position: relative;
+  top: 40px;
+}
+.banner1 .banner1-div .uqi2 {
+  height: 259px;
+  width: 270px;
+}
+.banner1 .banner1-div .uqi2 img {
+  position: relative;
+  top: 40px;
+}

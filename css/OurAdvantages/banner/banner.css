@@ -1,0 +1,96 @@
+.banner1 {
+  width: 1440px;
+  height: 700px;
+  margin: 0 auto;
+  background-image: url('../../../images/OurAdvantages/world\ map\ sphere5.png');
+  color: white;
+  text-align: center;
+  font-family: '幼圆';
+}
+.banner1 h1 {
+  font-size: 50px;
+  padding-top: 130px;
+}
+.banner1 p {
+  font-size: 24px;
+}
+.banner1 .dot {
+  width: 20px;
+  height: 20px;
+  background-color: #0095FF;
+  border-radius: 20px;
+}
+.banner1 #dot1 {
+  position: relative;
+  left: 300px;
+  top: 180px;
+}
+.banner1 #dot2 {
+  position: relative;
+  left: 100px;
+  top: 300px;
+}
+.banner1 #dot3 {
+  position: relative;
+  left: 800px;
+  top: 30px;
+}
+.banner1 #dot4 {
+  position: relative;
+  left: 1200px;
+  top: 160px;
+}
+.banner2 {
+  width: 1440px;
+  height: 986px;
+  margin: 0 auto;
+  background-image: url('../../../images/OurAdvantages/stars.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.banner2 img {
+  position: relative;
+  top: 180px;
+  left: 460px;
+}
+.banner2 .banner2_one {
+  position: relative;
+  bottom: 360px;
+  left: 200px;
+  width: 383px;
+  height: 136px;
+  background: rgba(178, 228, 255, 0.3);
+  filter: blur(0px);
+  border-radius: 15px;
+}
+.banner2 .banner2_two {
+  position: relative;
+  bottom: 550px;
+  left: 900px;
+  width: 248px;
+  height: 136px;
+  background: linear-gradient(to right, #D1F1FF, #2D97E5);
+  box-shadow: 0px 10px 40px #2D97E5;
+  border-radius: 15px;
+}
+.banner2 .banner2_three {
+  position: relative;
+  bottom: 250px;
+  left: 230px;
+  width: 277px;
+  height: 136px;
+  border-radius: 15px;
+  background: linear-gradient(to right, #D1F1FF, #2D97E5);
+  box-shadow: 0px 10px 40px #2D97E5;
+}
+.banner2 .banner2_four {
+  position: relative;
+  bottom: 400px;
+  left: 860px;
+  width: 277px;
+  height: 136px;
+  background-color: red;
+  border-radius: 15px;
+  background: rgba(178, 228, 255, 0.3);
+  filter: blur(0px);
+}

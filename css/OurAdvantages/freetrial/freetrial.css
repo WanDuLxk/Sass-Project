@@ -1,0 +1,31 @@
+.free {
+  width: 1440px;
+  height: 556px;
+  margin: 0 auto;
+  border: 1px solid #33A8FF;
+  background-color: #33A8FF;
+  font-family: '微软雅黑';
+  color: white;
+  text-align: center;
+}
+.free h1 {
+  font-size: 64px;
+  padding-top: 100px;
+}
+.free p {
+  font-size: 18px;
+}
+.free button {
+  width: 250px;
+  height: 56px;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  border: 1px solid #33A8FF;
+  position: relative;
+  top: 50px;
+}
+.free button a {
+  font-size: 20px;
+  color: #33A8FF;
+  text-decoration: none;
+}

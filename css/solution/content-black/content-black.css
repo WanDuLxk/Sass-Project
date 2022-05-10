@@ -1,0 +1,80 @@
+.content-black {
+  width: 1440px;
+  height: 1568.14px;
+  margin: 0 auto;
+  background-color: #212124;
+  text-align: center;
+  color: white;
+}
+.content-black .content-black-title {
+  width: 800px;
+  height: 230px;
+  border: 1px solid #212124;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+}
+.content-black .content-black-title h1 {
+  font-size: 50px;
+}
+.content-black .content-black-title p {
+  color: #a1a1a7;
+  font-size: 20px;
+}
+.content-black .content-black-img {
+  width: 980px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 150px;
+  border-radius: 25px;
+  background-image: url("../../../images/solution/img-sharing.png");
+}
+.content-black .content-black-module {
+  width: 1000px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+.content-black .content-black-module .logo {
+  width: 116.8px;
+  height: 116.66px;
+  margin: 0 auto;
+  position: relative;
+  top: 50px;
+  border-radius: 30px;
+}
+.content-black .content-black-module .logo h2 {
+  font-size: 24px;
+  line-height: 20px;
+}
+.content-black .content-black-module .logo p {
+  font-size: 14px;
+  color: #9f9fa5;
+}
+.content-black .content-black-module img {
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.content-black .content-black-module .content-black-module1 {
+  width: 280px;
+  height: 339px;
+  border-radius: 30px;
+  background: linear-gradient(to bottom, #1f1f24, #24242b);
+  box-shadow: 10px 10px 80px black;
+}
+.content-black .content-black-module .content-black-module2 {
+  width: 280px;
+  height: 339px;
+  border-radius: 30px;
+  background: linear-gradient(to bottom, #1f1f24, #24242b);
+  box-shadow: 10px 10px 80px black;
+}
+.content-black .content-black-module .content-black-module3 {
+  width: 280px;
+  height: 339px;
+  border-radius: 30px;
+  background: linear-gradient(to bottom, #1f1f24, #24242b);
+  box-shadow: 10px 10px 80px black;
+}

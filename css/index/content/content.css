@@ -1,0 +1,77 @@
+.content {
+  height: 1448px;
+  width: 1440px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.content-top-left {
+  width: 704px;
+  height: 666px;
+  float: left;
+  background-image: url('../../../images/index/Mask\ Group.png');
+  color: white;
+  font-family: '幼圆';
+  text-align: center;
+  line-height: 50px;
+}
+.content-top-left p {
+  font-size: 24px;
+}
+.content-top-left a {
+  color: #33A8FF;
+  text-decoration: none;
+}
+.content-top-right {
+  width: 704px;
+  height: 666px;
+  float: right;
+  background-image: url('../../../images/index/map\ scale.png');
+  text-align: center;
+  font-family: '幼圆';
+  line-height: 50px;
+}
+.content-top-right p {
+  font-size: 24px;
+}
+.content-top-right a {
+  text-decoration: none;
+  color: #33A8FF;
+}
+.content-bottom-left {
+  width: 704px;
+  height: 666px;
+  float: left;
+  margin-top: 20px;
+  background-image: url('../../../images/index/Group\ 265.png');
+  text-align: center;
+  color: white;
+  font-family: '幼圆';
+  line-height: 30px;
+}
+.content-bottom-left p {
+  font-size: 24px;
+}
+.content-bottom-left a {
+  text-decoration: none;
+  color: white;
+}
+.content-bottom-right {
+  width: 704px;
+  height: 666px;
+  float: right;
+  margin-top: 20px;
+  background-image: url('../../../images/index/Group\ 428.png');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  font-family: '幼圆';
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+.content-bottom-right p {
+  font-size: 24px;
+}
+.content-bottom-right a {
+  text-decoration: none;
+  color: #33A8FF;
+}

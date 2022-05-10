@@ -1,0 +1,30 @@
+.banner {
+  width: 1440px;
+  height: 636px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-image: url('../../../images/index/Group\ 373.png');
+  background-position: center center;
+}
+.banner .banner_center {
+  width: 980px;
+  height: 389px;
+  margin: auto;
+  position: relative;
+  top: 120px;
+  text-align: center;
+  line-height: 36px;
+  color: white;
+  font-family: '幼圆';
+  font-size: 24px;
+}
+.banner .banner_center button {
+  width: 250px;
+  height: 56px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.banner .banner_center button a {
+  text-decoration: none;
+  color: #33A8FF;
+}

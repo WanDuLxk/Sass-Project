@@ -1,0 +1,96 @@
+.content {
+  width: 980px;
+  margin: 100px auto;
+}
+.content .content-title1 {
+  width: 980px;
+  height: 256px;
+  display: flex;
+  justify-content: space-between;
+}
+.content .content-title1 .content-title1-left {
+  width: 450px;
+  height: 256px;
+  color: #A1A1A7;
+}
+.content .content-title1 .content-title1-left p {
+  font-size: 20px;
+}
+.content .content-title1 .content-title1-right {
+  width: 450px;
+  height: 256px;
+}
+.content .content-title1 .content-title1-right p {
+  color: #A1A1A7;
+  font-size: 15px;
+  line-height: 15px;
+}
+.content .content-img1 {
+  margin-top: 30px;
+  width: 980px;
+  height: 600px;
+  background-image: url('../../../images/ClientCase/Group\ 158.png');
+  border-radius: 20px;
+}
+.content .content-title2 {
+  margin-top: 150px;
+  width: 980px;
+  height: 256px;
+  display: flex;
+  justify-content: space-between;
+}
+.content .content-title2 .content-title2-left {
+  width: 450px;
+  height: 256px;
+  color: #A1A1A7;
+}
+.content .content-title2 .content-title2-left p {
+  font-size: 20px;
+}
+.content .content-title2 .content-title2-right {
+  width: 450px;
+  height: 256px;
+}
+.content .content-title2 .content-title2-right p {
+  color: #A1A1A7;
+  font-size: 15px;
+  line-height: 15px;
+}
+.content .content-img2 {
+  margin-top: 30px;
+  width: 980px;
+  height: 600px;
+  background-image: url('../../../images/ClientCase/Group\ 159.png');
+  border-radius: 20px;
+}
+.content .content-title3 {
+  margin-top: 150px;
+  width: 980px;
+  height: 256px;
+  display: flex;
+  justify-content: space-between;
+}
+.content .content-title3 .content-title3-left {
+  width: 450px;
+  height: 256px;
+  color: #A1A1A7;
+}
+.content .content-title3 .content-title3-left p {
+  font-size: 20px;
+}
+.content .content-title3 .content-title3-right {
+  width: 450px;
+  height: 256px;
+}
+.content .content-title3 .content-title3-right p {
+  color: #A1A1A7;
+  font-size: 15px;
+  line-height: 15px;
+}
+.content .content-img3 {
+  margin-top: 100px;
+  width: 980px;
+  height: 600px;
+  background-image: url('../../../images/ClientCase/Group\ 160.png');
+  border-radius: 20px;
+}

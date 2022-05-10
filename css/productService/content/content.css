@@ -1,0 +1,93 @@
+.content1 {
+  width: 1296px;
+  height: 1004px;
+  background-color: #212124;
+  margin: 0 auto  ;
+  color: white;
+  text-align: center;
+}
+.content1 .content1-title {
+  width: 600px;
+  height: 270px;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+}
+.content1 .content1-title p {
+  color: #A1A1A7;
+}
+.content1 .content1-div {
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+}
+.content1 .content1-div .moduel-img {
+  position: relative;
+  top: 30px;
+}
+.content1 .content1-div .center-blackdiv {
+  width: 580px;
+  height: 255px;
+  background: linear-gradient(to bottom, #1F1F24, #24242B);
+  border-radius: 30px;
+  box-shadow: 0px 10px 20px #24242B;
+  margin: 0 auto;
+  position: relative;
+  top: 110px;
+}
+.content1 .content1-div .center-blackdiv img {
+  position: relative;
+  bottom: 80px;
+}
+.content1 .content1-div .moduel-1 {
+  position: relative;
+  left: 120px;
+  bottom: 230px;
+  width: 120px;
+  height: 120px;
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #F80205, #4236BD);
+  box-shadow: 0px 5px 100px #F16F83;
+}
+.content1 .content1-div .moduel-1 p {
+  margin-top: 60px;
+}
+.content1 .content1-div .moduel-2 {
+  position: relative;
+  left: 720px;
+  bottom: 330px;
+  width: 120px;
+  height: 120px;
+  background-color: #30304A;
+  border-radius: 20px;
+}
+.content1 .content1-div .moduel-2 p {
+  margin-top: 60px;
+}
+.content1 .content1-div .moduel-3 {
+  position: relative;
+  left: 170px;
+  bottom: 180px;
+  width: 120px;
+  height: 120px;
+  background-color: #30304A;
+  border-radius: 20px;
+}
+.content1 .content1-div .moduel-3 p {
+  margin-top: 60px;
+}
+.content1 .content1-div .moduel-4 {
+  position: relative;
+  bottom: 300px;
+  left: 750px;
+  width: 120px;
+  height: 120px;
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #F80205, #4236BD);
+  box-shadow: 0px 5px 100px #F16F83;
+}
+.content1 .content1-div .moduel-4 p {
+  margin-top: 60px;
+}
